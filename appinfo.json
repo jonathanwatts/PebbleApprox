@@ -9,6 +9,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/menu_icon_fuzzy_watch.png",
+                "menuIcon": true,
+                "name": "menu_icon_fuzzy_watch",
+                "type": "png"
+            },
+            {
                 "file": "fonts/perfect-dos-vga.ttf",
                 "name": "FONT_PERFECT_DOS_48",
                 "type": "font"
